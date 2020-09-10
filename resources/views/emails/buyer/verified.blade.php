@@ -1,0 +1,1 @@
+<p>Your account now Verified.</p>

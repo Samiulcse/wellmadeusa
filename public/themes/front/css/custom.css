@@ -1,0 +1,66 @@
+/*Buyer Message page css*/
+.bg-read{
+    background: #FCF7F2;
+}
+.data_table_main_heading {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+.data_table_main_heading ul li{
+    float: left;
+    padding: .75rem;
+    background: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+.data_table_main_heading ul li:nth-of-type(1){
+    width: 7%;
+}
+.data_table_main_heading ul li:nth-of-type(2){
+    width: 62%;
+}
+.data_table_main_heading ul li:nth-of-type(3){
+    width: 13%;
+}
+.data_table_main_heading ul li:nth-of-type(4){
+    width: 18%;
+}
+.data_table {}
+.data_table .data_table_inner{}
+
+.data_table .data_table_inner{}
+.data_table .data_table_inner_head{
+    border-bottom: 1px solid #dee2e6;
+}
+.data_table .data_table_inner.active_desc .data_table_inner_head {
+    background: rgb(255, 204, 204, .4);
+}
+.data_table .data_table_inner_head ul li{
+    float: left;
+    padding: .75rem;
+    cursor: pointer;
+}
+.data_table .data_table_inner_head ul li:nth-of-type(1){
+    width: 7%;
+}
+.data_table .data_table_inner_head ul li:nth-of-type(2){
+    width: 62%;
+}
+.data_table .data_table_inner_head ul li:nth-of-type(3){
+    width: 13%;
+}
+.data_table .data_table_inner_head ul li:nth-of-type(4){
+    width: 18%;
+}
+.data_table .data_table_inner_body {
+    display: none;
+}
+.data_table_inner.active_desc .data_table_inner_body{
+    display: block;
+    border: 1px solid #ddd;
+    padding: 15px;
+}
+
+.custom_table{
+    overflow: hidden !important;
+}

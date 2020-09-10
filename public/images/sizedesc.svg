@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IconoRecomendadorTalla" transform="translate(-69.000000, -48.000000)">
+            <g id="Group" transform="translate(69.000000, 48.000000)">
+                <g id="IcoSizeRecommend">
+                    <circle id="Oval" fill="#2495D4" cx="30.5" cy="30.5" r="30.5"></circle>
+                    <path d="M30.5708805,27.2449951 L42.2010069,36.5930998 C42.2010069,36.5930998 44.7514079,38.5482832 43.7788649,40.5204729 C42.6415742,42.8269411 39.9359914,42.4682162 38.346973,42.4740621 C37.0481232,42.4783136 34.032177,42.4799079 30.5533428,42.4799079 L30.4459911,42.4799079 C26.9682198,42.4799079 23.9512107,42.4783136 22.6528923,42.4740621 C21.063874,42.4682162 18.3588226,42.8269411 17.2215319,40.5204729 C16.247926,38.5482832 18.7988585,36.5930998 18.7988585,36.5930998 L30.4289849,27.2449951 L30.2961238,27.3523468 C31.8091456,26.2740464 32.5207495,25.6729829 33.1632656,24.1822818 C33.6176505,23.126302 33.8663664,20.8825443 32.2890398,19.6671313 C30.7117132,18.4522497 28.5375747,19.2680166 28.5375747,19.2680166 C26.8661825,20.1241733 26.5712309,21.5739533 26.5712309,21.5739533" id="Stroke-1" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

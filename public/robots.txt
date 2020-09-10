@@ -1,0 +1,3 @@
+https://bluebusa.com/sitemap
+User-agent:*
+Disallow
